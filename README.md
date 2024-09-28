@@ -1,6 +1,6 @@
 # Elden Ring Boss Tactics
 
-## Table of Contents
+### Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
 - [How to Use](#how-to-use)
