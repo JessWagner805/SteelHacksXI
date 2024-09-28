@@ -19,3 +19,5 @@ TO DO
 ## How it Works
 TO DO
 (explain AI integration and snippets of code)
+![SteelHacksXI](https://github.com/user-attachments/assets/891f7285-0e44-48a2-a0ad-45142fcf3b17)
+
