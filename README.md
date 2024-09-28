@@ -1,4 +1,4 @@
-## Elden Ring Boss Tactics
+# Elden Ring Boss Tactics
 - Overview
 - Purpose
 - How to Use
