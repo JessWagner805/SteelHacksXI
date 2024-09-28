@@ -5,6 +5,7 @@
 - [Purpose](#purpose)
 - [How to Use](#how-to-use)
 - [How it Works](#how-it-works)
+- [Video Demonstration](#video-demonstration)
 
 ## Overview
 This website allows users to select a boss in *Elden Ring* and input their in-game stats. Based on these inputs, it provides tailored strategies and advice on how to defeat the selected boss.
@@ -22,4 +23,4 @@ TO DO
 TO DO
 (explain AI integration and snippets of code)
 
-
+## Video Demonstration
