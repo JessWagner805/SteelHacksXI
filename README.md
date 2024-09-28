@@ -17,8 +17,9 @@ TO DO
 (instert pictures of website with explanation)
 
 ## How it Works
+![SteelHacksXI](https://github.com/user-attachments/assets/046acb59-68e9-4c6e-bea0-0178a3dc52c6)
+
 TO DO
 (explain AI integration and snippets of code)
-![SteelHacksXI](https://github.com/user-attachments/assets/046acb59-68e9-4c6e-bea0-0178a3dc52c6)
 
 
