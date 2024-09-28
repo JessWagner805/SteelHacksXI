@@ -18,6 +18,8 @@ TO DO
 (instert pictures of website with explanation)
 
 ## How it Works
+TO
+(insert screen recording of website running)
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
 
 TO DO
