@@ -13,6 +13,7 @@ This website allows users to select a boss in *Elden Ring* and input their in-ga
 
 
 ## How to Use
-
+(instert pictures of website with explanation)
 
 ## How it Works
+(explain AI integration and snippets of code)
