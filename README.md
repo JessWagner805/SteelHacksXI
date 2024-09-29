@@ -14,7 +14,7 @@ This program allows users to select a boss in *Elden Ring* and input their in-ga
 Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats can make it even more difficult to develop an effective strategy. The purpose of this website is to provide users with effective tactics and advice for overcoming specific bosses based on their current character build and stats.
 
 ## How to Use
-- **TO DO** (instert picture of drop down screen)
+![Screenshot 2024-09-28 230241](https://github.com/user-attachments/assets/4142211e-88b0-4cb0-a03b-511cdad5c54d)
 1. Input your character's numerical stats using the corresponding dropdown options
 2. Select the boss you want to defeat
 3. Click "Submit"
