@@ -1,5 +1,5 @@
 # Elden Ring Boss Tactics
-
+*By: Natalie Goldsworthy, Pearl Singer, Luke Tola, and Jessica Wagner
 ### Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
@@ -19,9 +19,11 @@ TO DO
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
-- *_HTML input:_* "app.py" creates a website in which the user inputs their stats and chooses a boss
-- Based on the user's input, a json file named "boss_helper_data.json" is created
-- "main.py" reads through the user input and enters it into ChatGPT API
+- **HTML input:** "app.py" creates a website in which the user inputs their stats and chooses a boss
+- **userInput.json:** Based on the user's input, a json file named "boss_helper_data.json" is created
+- **main.py:** "main.py" reads through the user input and enters it into ChatGPT API
+- **output.json:**
+- **HTML output:**
 
 TO DO
 (explain AI integration and snippets of code)
