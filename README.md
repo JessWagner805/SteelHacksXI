@@ -19,7 +19,7 @@ TO DO
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
-- "app.py" creates a website in which the user inputs their stats and chooses a boss
+- *_HTML input:_* "app.py" creates a website in which the user inputs their stats and chooses a boss
 - Based on the user's input, a json file named "boss_helper_data.json" is created
 - "main.py" reads through the user input and enters it into ChatGPT API
 
