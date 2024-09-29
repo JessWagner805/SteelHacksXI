@@ -22,8 +22,20 @@ prompt = "In Elden Ring, how can I beat " + (boss) + " The following answers sho
 chat_completion = client.chat.completions.create(
     messages=[
         {
+            "role": "system",
+            "content": "You are a list of publicly known weapons, items, and armor from Elden Ring",
+        },
+        {
             "role": "user",
-            "content": prompt,
+            "content": "Given a Boss from Elden Ring, list the best weapons, armour, and items to use against this boss in order to increase your chance of winning against it.",
+        },
+        {
+            "role": "assistant",
+            "content": "Weapons: \n [list  3 weapons], Armor: \n [list 3 armor], Items: \n [list 3 items]"
+        },
+        {
+            "role": "user",
+            "content": prompt
         }
     ],
     model = "gpt-3.5-turbo-1106"
@@ -33,7 +45,7 @@ chat_completion = client.chat.completions.create(
 print(chat_completion.choices[0].message.content)
 
 with open('chatgpt_output.json', 'w') as f:
-  dump =  json.dump((chat_completion.choices[0].message.content), f, indent=4)
+  json.dump((chat_completion.choices[0].message.content), f, indent=4)
 
         
     
