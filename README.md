@@ -1,4 +1,4 @@
-# Elden Ring Boss Tactics
+# Elden Ring Boss Helper
 *By: Natalie Goldsworthy, Pearl Singer, Luke Tola, and Jessica Wagner*
 ### Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,12 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 
 ## How to Use
 TO DO
-(instert pictures of website with explanation)
+(instert picture of drop down screen)
+1. Input your character's numerical stats using the corresponding dropdown options
+2. Select the boss you want to defeat
+3. Click "Submit"
+(instert picture of output)
+4. AI generated advice and tactics on how to defeat the boss are displayed
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
@@ -23,10 +28,7 @@ TO DO
 - *userInput.json:* based on the user's input, a json file named "boss_helper_data.json" is created
 - *main.py:* "main.py" reads through the user input and enters it into ChatGPT API
 - *output.json:* based on ChaptGPT's output, a json file named "chatgpt_output.json" is created
-- *HTML output:*
-
-TO DO
-(explain AI integration and snippets of code)
+- *HTML output:* TO DO
 
 ## Video Demonstration
 TO DO
