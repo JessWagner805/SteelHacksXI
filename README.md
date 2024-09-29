@@ -28,7 +28,7 @@ TO DO
 - *userInput.json:* based on the user's input, a json file named "boss_helper_data.json" is created
 - *main.py:* "main.py" reads through the user input and enters it into ChatGPT API
 - *output.json:* based on ChaptGPT's output, a json file named "chatgpt_output.json" is created
-- *HTML output:* TO DO
+- *HTML output:* the information from "chatgpt_output.json" is output TO DO
 
 ## Video Demonstration
 TO DO
