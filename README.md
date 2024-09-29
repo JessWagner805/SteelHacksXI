@@ -32,5 +32,4 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 - *HTML output:* "test.py" reads through the information from "chatgpt_output.json" and would ideally output it to the website for the user to view. However in this version, the information is output to the terminal.
 
 ## Video Demonstration
-**TO DO**
-(insert screen recording of website running)
+https://youtu.be/Y8o7C-Nmwi0
