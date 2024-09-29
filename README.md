@@ -21,8 +21,7 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 - ![image](https://github.com/user-attachments/assets/e5301adc-773e-461c-b832-a7838d78f690)
 4. Ideally, the AI generated advice and tactics on how to defeat the boss are displayed on this page
    - Note: in this version, this information is printed in the terminal due to time constraints
-![image](https://github.com/user-attachments/assets/a1b0f1fb-c27e-4a20-bdf3-0bd39fb01c53)
-
+![image](https://github.com/user-attachments/assets/1c2116af-31ec-4655-a236-4d3111ace274)
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
