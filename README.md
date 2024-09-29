@@ -1,5 +1,5 @@
 # Elden Ring Boss Tactics
-*By: Natalie Goldsworthy, Pearl Singer, Luke Tola, and Jessica Wagner
+*By: Natalie Goldsworthy, Pearl Singer, Luke Tola, and Jessica Wagner*
 ### Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
