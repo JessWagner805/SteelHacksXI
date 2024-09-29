@@ -18,7 +18,7 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 1. Input your character's numerical stats using the corresponding dropdown options
 2. Select the boss you want to defeat
 3. Click "Submit"
-![image](https://github.com/user-attachments/assets/e5301adc-773e-461c-b832-a7838d78f690)
+- ![image](https://github.com/user-attachments/assets/e5301adc-773e-461c-b832-a7838d78f690)
 4. Ideally, the AI generated advice and tactics on how to defeat the boss are displayed on this page
    - Note: in this version, this information is printed in the terminal due to time constraints
 ![image](https://github.com/user-attachments/assets/a1b0f1fb-c27e-4a20-bdf3-0bd39fb01c53)
