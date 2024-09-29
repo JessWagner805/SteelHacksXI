@@ -8,7 +8,7 @@
 - [Video Demonstration](#video-demonstration)
 
 ## Overview
-This website allows users to select a boss in *Elden Ring* and input their in-game stats. Based on these inputs, it provides tailored strategies and advice on how to defeat the selected boss.
+This website allows users to select a boss in *Elden Ring* and input their in-game stats. Based on these inputs, the program utilizes AI to provide tailored strategies and advice on how to defeat the selected boss.
 
 ## Purpose
 Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats can make it even more difficult to develop an effective strategy. The purpose of this website is to provide users with effective tactics and advice for overcoming specific bosses based on their current character build and stats.
