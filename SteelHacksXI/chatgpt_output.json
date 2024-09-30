@@ -1,0 +1,23 @@
+{
+  "Weapons": [
+    {"Name": "Giant-Crusher - Requires Str 60, Dex 16"},
+    {"Name": "Golden Halberd - Requires Str 30, Dex 14, Fai 12"},
+    {"Name": "Meteoric Ore Blade - Requires Str 14, Dex 35, Int 18"}
+  ],
+  "Spells and Incantations": [
+    {"Name": "Flame, Grant me Strength - Requires Fai 12"},
+    {"Name": "Flame Sling - Requires Int 12"},
+    {"Name": "Protection of the Erdtree - Requires Fai 27"}
+  ],
+  "Armor": [
+    {"Name": "Veteran's Set - Heavy Armor no specific stat requirement"},
+    {"Name": "Banished Knight Set - Heavy Armor no specific stat requirement"},
+    {"Name": "Royal Remains Set - Moderate weight, no specific stat requirement"}
+  ],
+  "Items": [
+    "Crimson Tears",
+    "Cerulean Hidden Tear",
+    "Ruptured Crystal Tear"
+  ],
+  "Strategy": "Malenia is a formidable boss known for her swift attacks and healing abilities. To maximize your chances of defeating her, using the Giant-Crusher for its staggering ability can be effective, but it requires careful timing and stamina management due to its slow attack speed. Equip the Veteran's Set for high damage absorption. Use the spell 'Flame, Grant me strength' to increase your attack power and 'Protection of the Erdtree' for enhanced defense. A mix of aggressive combat and cautious positioning is key. Utilize consumables like Crimson Tears for health restoration. Focus on evading her waterfowl dance by dashing to her side or behind, and strike during her recovery phases. Consistent pressure and optimized use of your Tears combination during the second phase can turn the tide in your favor."
+}
