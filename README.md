@@ -5,7 +5,7 @@
 - [Purpose](#purpose)
 - [How to Use](#how-to-use)
 - [How it Works](#how-it-works)
-- [Video Demonstration {UPDATED}](#video-demonstration-{UPDATED})
+- [Video Demonstration -UPDATED-](#video-demonstration--UPDATED-)
 - [Devpost Submission](#devpost-submission)
 
 ## Overview
@@ -30,7 +30,7 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 - *output.json:* based on ChaptGPT's output, a json file named "chatgpt_output.json" is created
 - *HTML output:* "test.py" reads through the information from "chatgpt_output.json" and outputs it to the HTML page for the user to view
 
-## Video Demonstration {UPDATED}
+## Video Demonstration -UPDATED-
 [https://youtu.be/Y8o7C-Nmwi0](https://youtu.be/Y9nmaMEY8xc)
 
 ## Devpost Submission
