@@ -15,15 +15,12 @@ This program allows users to select a boss in *Elden Ring* and input their in-ga
 Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats can make it even more difficult to develop an effective strategy. The purpose of this website is to provide users with effective tactics and advice for overcoming specific bosses based on their current character build and stats.
 
 ## How to Use
-![Screenshot 2024-09-28 230241](https://github.com/user-attachments/assets/4142211e-88b0-4cb0-a03b-511cdad5c54d)
+- ![InputUpdated](https://github.com/user-attachments/assets/13d7f8c6-0764-4aed-839b-3c5c83629903)
 1. Input your character's numerical stats using the corresponding dropdown options
 2. Select the boss you want to defeat
 3. Click "Submit"
 - ![image](https://github.com/user-attachments/assets/f02c89c6-5186-4097-afcc-4bf3148feda9)
-4. Ideally, the AI generated advice and tactics on how to defeat the boss are displayed on this page
-   - Note: in this version, this information is printed in the terminal due to time constraints
-<img width="1032" alt="CorrectOutputCROPPED" src="https://github.com/user-attachments/assets/c0820926-2b63-4442-8904-94170dcb0c39">
-
+4. The AI generated advice and tactics on how to defeat the boss are displayed on this page
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
