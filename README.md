@@ -5,7 +5,7 @@
 - [Purpose](#purpose)
 - [How to Use](#how-to-use)
 - [How it Works](#how-it-works)
-- [Video Demonstration](#video-demonstration-{UPDATED})
+- [Video Demonstration {UPDATED}](#video-demonstration-{UPDATED})
 - [Devpost Submission](#devpost-submission)
 
 ## Overview
