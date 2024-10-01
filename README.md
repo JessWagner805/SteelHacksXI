@@ -24,11 +24,11 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 
 ## How it Works
 ![SteelHacksXI](https://github.com/user-attachments/assets/ace829f7-c342-4cdd-ab89-f6c81fe49d73)
-- *HTML input:* "app.py" creates a website in which the user inputs their stats and chooses a boss
+- *HTML input:* "app.py" creates an HTML page in which the user inputs their stats and chooses a boss
 - *userInput.json:* based on the user's input, a json file named "boss_helper_data.json" is created
 - *main.py:* "main.py" reads through the user input and enters it into ChatGPT API
 - *output.json:* based on ChaptGPT's output, a json file named "chatgpt_output.json" is created
-- *HTML output:* "test.py" reads through the information from "chatgpt_output.json" and would ideally output it to the website for the user to view. However in this version, the information is output to the terminal.
+- *HTML output:* "test.py" reads through the information from "chatgpt_output.json" and outputs it to the HTML page for the user to view
 
 ## Video Demonstration
 [https://youtu.be/Y8o7C-Nmwi0](https://youtu.be/Y9nmaMEY8xc)
