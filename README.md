@@ -6,7 +6,6 @@
 - [How to Use](#how-to-use)
 - [How it Works](#how-it-works)
 - [Video Demonstration -UPDATED-](#video-demonstration--UPDATED-)
-- [Devpost Submission](#devpost-submission)
 
 ## Overview
 This program allows users to select a boss in *Elden Ring* and input their in-game stats. Based on these inputs, the program utilizes AI to provide tailored strategies and advice on how to defeat the selected boss.
@@ -32,6 +31,3 @@ Defeating bosses in *Elden Ring* can be challenging, and having non-ideal stats 
 
 ## Video Demonstration -UPDATED-
 [https://youtu.be/Y8o7C-Nmwi0](https://youtu.be/Y9nmaMEY8xc)
-
-## Devpost Submission
-https://devpost.com/software/elden-ring-boss-helper
